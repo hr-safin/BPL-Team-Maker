@@ -1,0 +1,75 @@
+[
+    {   
+      "id" : 1,
+      "playerImage": "https://backoffice.daily-bangladesh.com/media/imgAll/2023July/English/tamim-iqbal-daily-bangladesh-1-1688640450.jpg",
+      "playerName": "Tamim Iqbal",
+      "playerAge": 34,
+      "country" : "Bangladesh",
+      "playerCost": 5000
+    },
+    {  
+      "id" : 2,
+      "playerImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/06/27/841830-shakib-al-hasan-reuters.jpg",
+      "playerName": "Shakib Al-Hasan",
+      "playerAge": 35,
+      "country" : "Bangladesh",
+      "playerCost": 8000
+    },
+    {  
+      "id" : 3,
+      "playerImage": "https://www.thenationalnews.com/resizer/xDLpmXKVecZ-c5tBguvppuSEfK4=/arc-photo-thenational/eu-central-1-prod/public/4QZ7VBFTABAYFF3PFFFRCNJ6NQ.JPG",
+      "playerName": "Virat Kholi",
+      "playerAge": 34,
+      "country" : "India",
+      "playerCost": 12000
+    },
+    {  
+      "id" : 4,
+      "playerImage": "https://images.mid-day.com/images/images/2022/aug/Stokes-ao_d.jpg",
+      "playerName": "Ben Stokes",
+      "playerAge": 28,
+      "country" : "England",
+      "playerCost": 12000
+    },
+    {  
+      "id" : 5,
+      "playerImage": "https://images.businessupturn.com/wp-content/uploads/2023/02/20120923/Add-a-heading-2023-02-20T120414.998.jpg",
+      "playerName": "Glen Maxwell",
+      "playerAge": 29,
+      "country" : "Australia",
+      "playerCost": 10000
+    },
+    {  
+      "id" : 6,
+      "playerImage": "https://circleofcricket.com/post_image/post_image_1ada7ca.jpg",
+      "playerName": "Josh Buttler",
+      "playerAge": 26,
+      "country" : "England",
+      "playerCost": 15000
+    },
+    {  
+      "id" : 7,
+      "playerImage": "https://www.bssnews.net/assets/news_photos/2021/10/27/image-24950-1635346440.jpg",
+      "playerName": "Mahmudullah",
+      "playerAge": 36,
+      "country" : "Bangladesh",
+      "playerCost": 6000
+    },
+    {  
+      "id" : 8,
+      "playerImage": "https://images.mid-day.com/images/images/2023/jul/Hardik-Pandya-DA_d.jpg",
+      "playerName": "Hardik Pandiya",
+      "playerAge": 29,
+      "country" : "India",
+      "playerCost": 14000
+    },
+    {  
+      "id" : 9,
+      "playerImage": "https://resources.pulse.icc-cricket.com/ICC/photo/2021/11/01/9b078030-2604-4928-a465-78632ed7a2e9/fp7og0vJ.jpg",
+      "playerName": "Babar Azam",
+      "playerAge": 27,
+      "country" : "Pakistan",
+      "playerCost": 10000
+    }
+  ]
+  
